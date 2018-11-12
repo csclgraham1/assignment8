@@ -34,7 +34,7 @@ Vulnerability #2: Username Enumeration
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference
 
 Vulnerability #2: __________________
 
