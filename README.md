@@ -29,7 +29,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1:cross cite scripting
 
-Vulnerability #2: __________________
+Vulnerability #2: Username Enumeration 
 
 
 ## Red
