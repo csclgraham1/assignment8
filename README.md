@@ -36,7 +36,7 @@ Vulnerability #2: Username Enumeration
 
 Vulnerability #1: Insecure Direct Object Reference
 
-Vulnerability #2: __________________
+Vulnerability #2:Cross-Site Request Forgery
 
 
 ## Notes
